@@ -2,7 +2,7 @@ import { useEffect, useState } from 'react';
 import { cn } from '@/lib/utils';
 
 const images = [
-  'https://cdn.poehali.dev/projects/85636a70-dc84-484c-8c08-7e2279a5e7e7/files/7553ecd5-e1af-4d56-a51c-4672e7de2232.jpg',
+  'https://cdn.poehali.dev/projects/85636a70-dc84-484c-8c08-7e2279a5e7e7/files/57d3a124-1782-4e3c-be3c-6877168e925e.jpg',
   'https://cdn.poehali.dev/templates/creative-portfolio-ru/gallery-2.jpg',
   'https://cdn.poehali.dev/templates/creative-portfolio-ru/gallery-4.jpg',
   'https://cdn.poehali.dev/templates/creative-portfolio-ru/gallery-5.jpg',
