@@ -3,9 +3,9 @@ import { cn } from '@/lib/utils';
 
 const images = [
   'https://cdn.poehali.dev/projects/85636a70-dc84-484c-8c08-7e2279a5e7e7/files/57d3a124-1782-4e3c-be3c-6877168e925e.jpg',
-  'https://cdn.poehali.dev/templates/creative-portfolio-ru/gallery-2.jpg',
-  'https://cdn.poehali.dev/templates/creative-portfolio-ru/gallery-4.jpg',
-  'https://cdn.poehali.dev/templates/creative-portfolio-ru/gallery-5.jpg',
+  'https://cdn.poehali.dev/projects/85636a70-dc84-484c-8c08-7e2279a5e7e7/files/e1b11855-d9e0-4bcc-a912-9f79657234a6.jpg',
+  'https://cdn.poehali.dev/projects/85636a70-dc84-484c-8c08-7e2279a5e7e7/files/d3cb9edd-9569-4581-822e-5772f70536cb.jpg',
+  'https://cdn.poehali.dev/projects/85636a70-dc84-484c-8c08-7e2279a5e7e7/files/550d7df4-493e-4a8f-a8a6-8370e00a415d.jpg',
 ];
 
 export default function HeroSection() {
